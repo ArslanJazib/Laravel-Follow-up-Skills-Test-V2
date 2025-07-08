@@ -5,6 +5,12 @@
 .env.production
 .phpactor.json
 .phpunit.result.cache
+composer.lock
+composer.phar
+package-lock.json
+npm-debug.log*
+vite.config.js
+vite.config.ts
 /.fleet
 /.idea
 /.nova
