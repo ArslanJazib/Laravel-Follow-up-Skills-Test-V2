@@ -75,6 +75,7 @@ npm run dev
 # Set up auth
 php artisan ui bootstrap --auth
 php artisan migrate
+php artisan db:seed
 
 # Create storage symlink
 php artisan storage:link
